@@ -33,3 +33,8 @@ The completed dashboard provides essential insights that facilitate:
 - Analysis of sales performance
 - Identification of trends and patterns
 - Informed, data-driven decisions to enhance sales strategies
+
+Here Is the Dashboard Image :-
+![Blinkit](https://github.com/user-attachments/assets/dc2c51fd-b730-4968-a1a9-9a0e088d4ae0)
+
+
